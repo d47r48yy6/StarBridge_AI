@@ -25,9 +25,9 @@ async function Home() {
     <>
       <section className="card-cta">
         <div className="flex flex-col gap-6 max-w-lg">
-          <h2>Get Interview-Ready with AI-Powered Practice & Feedback</h2>
+          <h2>Master the Dark Arts of Job Interviews!</h2>
           <p className="text-lg">
-            Practice real interview questions & get instant feedback
+          AI’s Sorting Hat – Gryffindor or Job Rejection?
           </p>
 
           <Button asChild className="btn-primary max-sm:w-full">
